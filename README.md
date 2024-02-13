@@ -17,3 +17,9 @@ Paste selenium jar and driver in the same path where you want to run the php scr
 # Install dependencies
 
 To install the dependencies run : composer require 
+
+# Download and install composer
+
+Make sure you have installed the dependency manager for PHP.
+
+Donwload from here: https://getcomposer.org/download/
